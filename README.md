@@ -7,7 +7,7 @@ Instalar las dependencias ejecutando el siguiente comando en la raiz del proyect
 ```
 npm install
 ```
-Para ejecutar las pruenas unitarias use el comando
+Para ejecutar las pruebas unitarias use el comando
 ```
 npm run test
 ```
