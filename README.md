@@ -1,5 +1,5 @@
 # TDD
-En este proyecto se aplica el desarrollo dirigido por pruebas, asi como reforzar
+En este proyecto se aplica el desarrollo dirigido por pruebas, asi como
 el manejo de pruebas unitarias.
 El proyecto es un carrito de compras de autos.
 ## Instruciones
